@@ -1,0 +1,33 @@
+body{
+    background-color: cornsilk;
+    background: linear-gradient(#d2d427 10%, cornsilk 90%)
+}
+
+h1{
+    color:midnightblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 600%;
+}
+
+h2{
+    color:firebrick;
+    font-size: 500%;
+    font-family:monospace;
+}
+
+p{
+    color: black;
+    font-family: cursive;
+    font-size: 150%;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+
+}
+img {
+    width: 30%;
+    margin-top: 20px;
+    border-radius: 50%;
+    background-color: red; 
+}
+
